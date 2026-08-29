@@ -1,20 +1,9 @@
 ## Date: 28-08-2026
 **Today's Work:**
-- Implemented Week 5 Category C Assignment problems in feature/session_5 branch
+- Implemented Week 4 Category C Practice and Assignment problems in feature/session_4 branch
 
 **Next Session Plan:**
 - Continue with further assignments
-
-**Issues Faced:**
-- None
----
-
-## Date: 28-08-2026
-**Today's Work:**
-- Implemented Week 4 Category C Practice problems in feature/session_4 branch
-
-**Next Session Plan:**
-- Continue with Week 5 assignments
 
 **Issues Faced:**
 - None
